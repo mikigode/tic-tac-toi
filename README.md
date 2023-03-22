@@ -14,4 +14,4 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-the project looks like [https://tic-tac-toi.vercel.app/](click here) to visit.
+the project looks like [https://tic-tac-toi.vercel.app](click here) to visit.
